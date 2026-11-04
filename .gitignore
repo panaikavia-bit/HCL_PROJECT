@@ -1,1 +1,25 @@
 
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# API keys and environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma database
+chroma_db/
+
+# SQLite database
+data/*.db
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
